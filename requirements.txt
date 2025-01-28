@@ -1,0 +1,4 @@
+cernrequests
+pandas
+uproot
+runregistry
