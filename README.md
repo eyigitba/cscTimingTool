@@ -29,4 +29,9 @@ optional arguments:
   --runClass RUNCLASS  Run class in runregistry. Could be Collisions, CollisionsHI, Cosmics, or Commissioning
 ```
 
+Example command:
+```
+python3 cscTiming.py --runs 387833:387860 --minLS 100 --runClass CollisionsHI
+```
+
 Please contact Efe if you have any further questions.
